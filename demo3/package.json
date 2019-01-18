@@ -9,8 +9,8 @@
   "author": "YJPrakash",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "file:../../../../modules/node_modules/body-parser",
-    "express": "file:../../../../modules/node_modules/express",
-    "mongoose": "file:../../../../modules/node_modules/mongoose"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.3"
   }
 }

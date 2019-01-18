@@ -9,7 +9,7 @@ function formatParams(params) {
 }
 
 let url = "/api/Books";
-let method = "POST";
+let method = "GET";
 let xhr = new XMLHttpRequest();
 // url += formatParams(data);
 xhr.open(method, url, true);
