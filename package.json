@@ -1,14 +1,23 @@
 {
   "name": "mongodb-samples",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "MongoDB Samples",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "yjprakash",
   "license": "ISC",
   "dependencies": {
     "sample": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YJPrakash/Samples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YJPrakash/Samples/issues"
+  },
+  "homepage": "https://github.com/YJPrakash/Samples#readme"
 }
